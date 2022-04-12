@@ -11,3 +11,15 @@ Users can create an account, view popular places in an area, submit new location
 
 Basic authoriziations with Passport package, interactive maps with Mapbox package, and applied security measures like
 Mongo Injection and Sanitize HTML package. 
+
+
+# Technologies
+* Javasript
+* HTML5
+* CSS3
+* Node.js
+* Bootstrap
+* Express
+* MongoDB
+* Mapbox
+* Passport 
